@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="durgapuja" size="1.000000 1.000000" />
+    <ImageTarget name="patnachattpuja" size="1.000000 1.000000" />
+    <ImageTarget name="varanasi-turtle" size="1.000000 1.000000" />
+    <ImageTarget name="hawra" size="1.000000 1.000000" />
+    <ImageTarget name="kolkata" size="1.000000 1.000000" />
+    <ImageTarget name="haridwar" size="1.000000 1.000000" />
+    <ImageTarget name="kanpur" size="1.000000 1.000000" />
+    <ImageTarget name="prayagraj" size="1.000000 1.000000" />
+    <ImageTarget name="crop" size="1.000000 1.000000" />
+    <ImageTarget name="himalaya" size="1.000000 1.000000" />
+    <ImageTarget name="generated_1" size="4.000000 3.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="img-20240416-wa0004" size="1.000000 1.078749" />
+    <ImageTarget name="img-20240416-wa0003" size="1.000000 1.110000" />
+    <ImageTarget name="img-20240416-wa0002" size="1.000000 1.036000" />
+    <ImageTarget name="img-20240416-wa0001" size="1.000000 0.981000" />
+    <ImageTarget name="img-20240416-wa0000" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
